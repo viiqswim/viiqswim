@@ -1,4 +1,9 @@
-### Hi there 👋
+<!--
+Find other cool profile examples at the following site
+https://zzetao.github.io/awesome-github-profile/
+-->
+
+### 👋 Welcome to my profile!
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=viiqswim)](https://github.com/anuraghazra/github-readme-stats)
 
